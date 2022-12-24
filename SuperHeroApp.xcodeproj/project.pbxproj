@@ -13,6 +13,7 @@
 		4FA6729629524AC2006605CA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FA6729429524AC2006605CA /* Main.storyboard */; };
 		4FA6729829524AC3006605CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4FA6729729524AC3006605CA /* Assets.xcassets */; };
 		4FA6729B29524AC3006605CA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FA6729929524AC3006605CA /* LaunchScreen.storyboard */; };
+		4FA672A3295333A1006605CA /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FA672A2295333A1006605CA /* DetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4FA6729729524AC3006605CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4FA6729A29524AC3006605CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4FA6729C29524AC3006605CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4FA672A2295333A1006605CA /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				4FA6728E29524AC2006605CA /* AppDelegate.swift */,
 				4FA6729029524AC2006605CA /* SceneDelegate.swift */,
 				4FA6729229524AC2006605CA /* ViewController.swift */,
+				4FA672A2295333A1006605CA /* DetailsViewController.swift */,
 				4FA6729429524AC2006605CA /* Main.storyboard */,
 				4FA6729729524AC3006605CA /* Assets.xcassets */,
 				4FA6729929524AC3006605CA /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				4FA6729329524AC2006605CA /* ViewController.swift in Sources */,
 				4FA6728F29524AC2006605CA /* AppDelegate.swift in Sources */,
 				4FA6729129524AC2006605CA /* SceneDelegate.swift in Sources */,
+				4FA672A3295333A1006605CA /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
